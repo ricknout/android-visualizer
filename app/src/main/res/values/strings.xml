@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Visualizer</string>
+    <string name="button_grant_audio_permission">Grant audio permission</string>
 </resources>
